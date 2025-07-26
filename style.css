@@ -164,4 +164,9 @@ body {
       margin: 12px 0;
     }
   }
-  
+  #features .highlight-points {
+    text-align: left;
+    max-width: 600px;
+    margin: 20px auto 0;
+    line-height: 1;
+}
